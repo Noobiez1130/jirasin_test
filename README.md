@@ -1,3 +1,3 @@
 # jirasin_test
 
-This is Git for team session in CS100
+This is Git for team session in CS100. I"m working with A.
