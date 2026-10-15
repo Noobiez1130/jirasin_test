@@ -1,3 +1,3 @@
 # jirasin_test
 
-Edit README.md
+This is Git for team session in CS100
